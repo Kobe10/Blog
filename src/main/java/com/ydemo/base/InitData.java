@@ -68,9 +68,6 @@ public class InitData implements CommandLineRunner {
 
         metasRepository.save(metas);
 
-
-
-
         System.out.println("-------数据初始化程序---end------");
 
     }

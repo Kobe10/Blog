@@ -2,7 +2,7 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.1.201:3306/fuzq?useUnicode=true&characterEncoding=utf8
+    url: jdbc:mysql://114.248.78.102:33016/fuzq?useUnicode=true&characterEncoding=utf8
     username: eland
     password: 4v#S75h8uhYYAO1d
     # 初始化大小，最小，最大
